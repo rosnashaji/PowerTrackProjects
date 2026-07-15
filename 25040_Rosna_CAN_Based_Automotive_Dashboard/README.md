@@ -17,7 +17,6 @@ Features
 
 Hardware Used
 - PIC18F4580 Microcontroller
-- MCP2551 CAN Transceiver
 - 16x2 Character LCD
 - Potentiometer
 - Digital Keypad
